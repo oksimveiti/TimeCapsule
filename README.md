@@ -28,7 +28,6 @@ Here are some screenshots of the TimeCapsule application:
   <p><em>A locked capsule waiting to be opened</em></p>
 </div>
 
-You can add your screenshots to the `assets/screenshots` folder and update the image paths above.
 
 ## 🛠️ Technologies Used
 
